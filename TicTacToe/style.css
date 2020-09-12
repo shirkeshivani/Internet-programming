@@ -1,0 +1,19 @@
+.Square {
+				width: 70px;
+				height: 70px;
+				text-align: center;
+				font-size: 20pt;
+				font-weight: bold;
+				font-family: Verdana;
+			}
+			
+
+			 span{			width: 90px;
+			 				height: 40px;
+                            display: block;
+                            text-align: center;
+                            font-family: sans-serif;
+                            color: black;
+                            font-size: 30px;
+                            background: orange;
+                           }
